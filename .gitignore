@@ -1,0 +1,4 @@
+node_modules/
+.ash_history
+.gitconfig
+entrypoint.sh
